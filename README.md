@@ -1,5 +1,5 @@
-# Operation-Systems
-#### _Whatis an operating system?_
+# Operation-Systems  💻
+#### _What is an operating system?_ 
 An operating system is a program that acts as an interface between the computer user and computer hardware, and controls the execution of programs.
 
 #### _The operating system’s job:_ 
@@ -11,4 +11,6 @@ Most of the time, there are several different computer programs running at the s
      <img src="https://github.com/abbos0123/Operation-Systems/blob/main/images/os-image-1.png" alt="OS IMAGE" style="height: 50%; width:50%;"/>
 </p>
 
-# Stady Plan :book:
+# Stady Plan 📚
+
+
