@@ -20,7 +20,7 @@ Most of the time, there are several different computer programs running at the s
 |No|Book / Course|Resource|Page / Website|Status|
 |--|----|--------|----|------|
 |1|Complete Linux Training Course (Udemy course) :arrow_forward:|[Complete Linux Training Course (Udemy course)](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/)|<p align="center"> ```udemy.com```</p>|:heavy_check_mark:|
-|2|Operating System Tutorial|[Operating System Tutorial](https://www.geeksforgeeks.org/operating-systems/?ref=ghm)|<p align="center">  ```GeeksForGeeks```</p>|:book:|
+|2|Operating System Tutorial|[Operating System Tutorial](https://www.geeksforgeeks.org/operating-systems/?ref=ghm)|<p align="center">  ```www.geeksforgeeks.org```</p>|:heavy_check_mark:|
 |3|Operation Systems Tutorials|[Operating Systems Tutorial](https://www.javatpoint.com/operating-system)|<p align="center"> ```www.javatpoint.com``` </p>|:hourglass:|
 |4| Operation System concepts |[Operation System concepts](https://github.com/abbos0123/Operation-Systems/tree/main/Operating%20System%20Concepts)|<p align="center">944 </p>|:hourglass:|
 |5|Linux Bible By Christopher Negus |[Linux Bible By Christopher Negus](https://github.com/abbos0123/Operation-Systems/tree/main/Linux%20Bible%20By%20Christopher%20Negus)|<p align="center">858 </p>|:hourglass:|
