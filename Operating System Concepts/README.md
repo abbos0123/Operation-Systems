@@ -25,7 +25,7 @@ allows students to complete programming exercises that help them engage further 
        <td>Introduction</td>
        <td></td>
        <td></td>
-       <td>:hourglass:</td>
+       <td>:book:</td>
   </tr>
   <tr>
        <td>2</td>
