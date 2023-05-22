@@ -32,21 +32,21 @@ allows students to complete programming exercises that help them engage further 
        <td>Operating - System Structures</td>
        <td></td>
        <td></td>
-       <td>:book:</td>
+       <td>:heavy_check_mark:</td>
   </tr>
   <tr>
        <td>3</td>
        <td>Processes</td>
        <td></td>
        <td></td>
-       <td>:hourglass:</td>
+       <td>:heavy_check_mark:</td>
   </tr>
   <tr>
        <td>4</td>
        <td>Threads</td>
        <td></td>
        <td></td>
-       <td>:hourglass:</td>
+       <td>:book:</td>
   </tr>
   <tr>
        <td>5</td>
