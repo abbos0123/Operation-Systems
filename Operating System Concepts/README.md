@@ -53,14 +53,14 @@ allows students to complete programming exercises that help them engage further 
        <td>Process Synchronization</td>
        <td></td>
        <td></td>
-       <td>:book:</td>
+       <td>:heavy_check_mark:</td>
   </tr>
   <tr>
        <td>6</td>
        <td>CPU Scheduling</td>
        <td></td>
        <td></td>
-       <td>:hourglass:</td>
+       <td>:book:</td>
   </tr>
   <tr>
        <td>7</td>
