@@ -102,21 +102,21 @@ allows students to complete programming exercises that help them engage further 
        <td>File - System Implementation</td>
        <td></td>
        <td></td>
-       <td>:book:</td>
+       <td>:heavy_check_mark:</td>
   </tr>
   <tr>
        <td>13</td>
        <td>I/O Systems</td>
        <td></td>
        <td></td>
-       <td>:hourglass:</td>
+       <td>:heavy_check_mark:</td>
   </tr>
   <tr>
        <td>14</td>
        <td>Protection</td>
        <td></td>
        <td></td>
-       <td>:hourglass:</td>
+       <td>:book:</td>
   </tr>
   <tr>
        <td>15</td>
