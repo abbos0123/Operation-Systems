@@ -13,7 +13,7 @@ Most of the time, there are several different computer programs running at the s
 <br/>
 <br/>
 
-# Stady Plan 📚 
+# Study Plan 📚 
 
 <br/>
 
