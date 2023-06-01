@@ -116,21 +116,21 @@ allows students to complete programming exercises that help them engage further 
        <td>Protection</td>
        <td></td>
        <td></td>
-       <td>:book:</td>
+       <td>:heavy_check_mark:</td>
   </tr>
   <tr>
        <td>15</td>
        <td>Security</td>
        <td></td>
        <td></td>
-       <td>:hourglass:</td>
+       <td>:heavy_check_mark:</td>
   </tr>
   <tr>
        <td>16</td>
        <td>Virtual Machines</td>
        <td></td>
        <td></td>
-       <td>:hourglass:</td>
+       <td>:book:</td>
   </tr>
   <tr>
        <td>17</td>
