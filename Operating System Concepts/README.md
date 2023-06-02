@@ -130,21 +130,21 @@ allows students to complete programming exercises that help them engage further 
        <td>Virtual Machines</td>
        <td></td>
        <td></td>
-       <td>:book:</td>
+       <td>:heavy_check_mark:</td>
   </tr>
   <tr>
        <td>17</td>
        <td>Distributed Systems</td>
        <td></td>
        <td></td>
-       <td>:hourglass:</td>
+       <td>:heavy_check_mark:</td>
   </tr>
   <tr>
        <td>18</td>
        <td>The Linux System</td>
        <td></td>
        <td></td>
-       <td>:hourglass:</td>
+       <td>:book:</td>
   </tr>
   <tr>
        <td>19</td>
