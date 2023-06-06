@@ -144,21 +144,21 @@ allows students to complete programming exercises that help them engage further 
        <td>The Linux System</td>
        <td></td>
        <td></td>
-       <td>:book:</td>
+       <td>:heavy_check_mark:</td>
   </tr>
   <tr>
        <td>19</td>
        <td>Windows 7</td>
        <td></td>
        <td></td>
-       <td>:hourglass:</td>
+       <td>:x:</td>
   </tr>
   <tr>
        <td>20</td>
        <td>Influential Operating Systems</td>
        <td></td>
        <td></td>
-       <td>:hourglass:</td>
+       <td>:x:</td>
   </tr>
 </tbody>
 </table>
